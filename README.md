@@ -31,7 +31,7 @@ _____
 
 ## Bout me (academia) 📚
 
-I studied a telecommunications' degree at Universidade de Vigo, followed by a Master's degree in the same university. In addition, I'm also self taught in many complementary fields such as new programming languages / techniques / stuff and being SO, GH and academic papers my major sources of information.
+I studied a telecommunications' engineering degree at Universidade de Vigo, followed by a Master's degree in the same university. In addition, I'm also self taught in many complementary fields such as new programming languages / techniques / stuff and being SO, GH and academic papers my major sources of information.
 
 ## Bout me (work) 💻
 
