@@ -16,7 +16,7 @@
  </p>
 </div> 
 
-I am a telecommunications engineer with specialization in radio communications (and a thing for software development). This profile is not updated often and the repositories rarely will be more than snippets, proofs of concept or unpolished prototypes, but my major focus is on the projects I carry out at work.
+I am a telecommunications engineer with specialization in radio communications (and a thing for software development). This profile is not updated often and the repositories rarely will be more than snippets, proofs of concept or unpolished prototypes, since my major focus is on the projects I carry out at work.
 ____
 
 <p align="center">
